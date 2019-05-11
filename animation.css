@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(156, 154, 154);
+}
+body h1{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(252, 214, 168);
+
+}
+.text-container{
+    border-bottom: 2px solid black;
+    
+    
+}
+.text-container {
+    margin-left: 57px;
+    width: 844px;
+    /* background-color: white; */
+}
+.text-container {
+    margin-top: 17%;
+    text-align: center;
+}
+.text-container {
+    border-bottom: 2px solid black;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+.text-container h1{
+    font-size: 250px;
+    color: rgba(225, 225, 225, .1);
+    background-image: url(images/download\ \(1\).jpg);
+    background-repeat: repeat-x;
+    -webkit-background-clip: text;
+    animation: animate 15s linear infinite;
+
+}
+@keyframes animate{
+    0%{
+        background-position: left 0px top 10px;
+    }
+    100%{
+        background-position: left 800px top 10px;
+    }
+
+}
+.text-container{
+    margin-top: 17%;
+    text-align: center;
+}
+
